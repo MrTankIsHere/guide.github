@@ -4,7 +4,7 @@ This guide is your one-stop resource for mastering Git and GitHub. It's structur
 
 ---
 
-## Ⅰ. The Basics: Your First Steps with Git
+## Ⅰ. The Basics: Your First Steps with Git - version control tool
 
 This section covers the essential commands you'll use every day.
 
