@@ -6,7 +6,7 @@ This document covers some important Git concepts and commands that were not incl
 
 ## 1. Ignoring Files: `.gitignore`
 
-A `.gitignore` file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected.
+A `.gitignore` file specifies intentionally untracked files that Git should ignore (it just ignore the files that are in that repo/folder). Files already tracked by Git are not affected.
 
 ### Why is this important?
 
